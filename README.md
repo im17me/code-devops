@@ -16,4 +16,4 @@ DevOps Technology  Material  >>> 运维技术资料
 * 师父带徒弟路线：能遇好的师父难，能遇到肯教徒弟的师父更难，主要还是觉得烦，学习速度快。只能随缘了！
 
 
-![image](/img/tech.png)
+![image](https://github.com/im17me/code-ptm/raw/master/img/tech.png)
