@@ -39,4 +39,6 @@ https://github.com/ceph/ceph
 
 http://docs.ceph.org.cn/
 
-https://www.cnblogs.com/zyxnhr/p/10530140.html
+https://juejin.im/post/5cf635066fb9a07ed911ae84
+
+https://juejin.im/entry/5b208433518825137b50cd10
